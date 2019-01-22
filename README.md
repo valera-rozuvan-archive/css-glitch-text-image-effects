@@ -18,4 +18,14 @@ Please checkout the live version hosted on GitHub pages:
 - background image taken from here:
   - [HD Wallpaper Of The View Of Sitting On Top Of A Skyscraper](https://paperpull.com/hd-wallpaper-of-the-view-of-sitting-on-top-of-a-skyscraper/)
 
+## Browser compatibility
+
+The effect is based on [clip-path](https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path) CSS
+property, and not all browsers support it yet. However, all the major ones are OK with it. Tested
+with latest version of the following browsers:
+
+- Google Chrome `Version 71.0.3578.98 (Official Build) (64-bit)`
+- Mozilla Firefox `64.0.2 (64-bit)`
+- Safari `Version 12.0.2 (14606.3.4)`
+
 ## Enjoy ;)
