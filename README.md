@@ -1,5 +1,11 @@
 # CSS glitch text and image effects
 
+## wip has moved
+
+Future work on this repository has moved to the monorepo [valera-rozuvan/experiments](https://github.com/valera-rozuvan/experiments). This repo is archived for historic purposes (to preserve commit history). Navigate over to [experiments/css-glitch-text-image-effects](https://github.com/valera-rozuvan/experiments/tree/main/css-glitch-text-image-effects) to see updates (if any).
+
+## introduction
+
 Originally published over at [creativebloq.com](https://www.creativebloq.com/), the source code has
 been slightly modified. A demonstration of how to achieve image and text glitch effects via CSS.
 Fully responsive mock-up.
